@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">YukWisata</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="darat_name">
+        <item>Ayana Gedung Songo</item>
+        <item>Kampung Kopi Banaran</item>
+        <item>Kampung Pelangi</item>
+        <item>Kebun Teh Medini</item>
+        <item>Pagoda Avalokitesvara</item>
+        <item>Klenteng Sam Poo Kong</item>
+        <item>Pondok Kopi Umbul Sidomukti</item>
+
+    </string-array>
+
+    <string-array name="laut_name">
+        <item>Curug Lawe</item>
+        <item>Sabana Rawa Pening</item>
+        <item>Watu Gunung</item>
+    </string-array>
+
+    <array name="darat_image">
+        <item>@drawable/ayana</item>
+        <item>@drawable/banaran</item>
+        <item>@drawable/kampungpelangi</item>
+        <item>@drawable/medini</item>
+        <item>@drawable/pagoda</item>
+        <item>@drawable/sampokong</item>
+        <item>@drawable/umbul</item>
+    </array>
+
+    <array name="laut_image">
+        <item>@drawable/curuglawe</item>
+        <item>@drawable/rawapening</item>
+        <item>@drawable/watugunung</item>
+    </array>
+</resources>
